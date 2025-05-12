@@ -10,7 +10,7 @@
         <img src="{{ asset('images/Carpenter.svg') }}" alt="Imagem de boas vindas">
     </div>
 
-    <div>
+    <div class="text-center">
         <p>Gerencie sua oficina, facilite seus fluxos diários. Faça da sua oficina, o melhor lugar para o seu cliente.
         </p>
     </div>
